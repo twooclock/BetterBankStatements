@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterBankStatements", "BetterBankStatements\BetterBankStatements.csproj", "{DC4B21B2-4D9F-4E61-BE63-F62BE9B3ACBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4B21B2-4D9F-4E61-BE63-F62BE9B3ACBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4B21B2-4D9F-4E61-BE63-F62BE9B3ACBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4B21B2-4D9F-4E61-BE63-F62BE9B3ACBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4B21B2-4D9F-4E61-BE63-F62BE9B3ACBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62B3DEE-64B1-474D-BAE1-F175B920C07B}
+	EndGlobalSection
+EndGlobal
