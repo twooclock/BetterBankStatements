@@ -3,7 +3,7 @@
  
  What's this?
  -------------
- It's an utility that uses xsl to transform all bank sttements (camt 053 iso20022 xml files) in a folder to one html document.
+ It's an utility that uses xsl to transform bank statements (camt 053 iso20022 xml files) into one html document.
  
  
  Why this?
@@ -16,5 +16,7 @@
  Download and compile (I used VS2019), run BetterBankStatements.exe or use camt2Html.xsl
  
  
+ Other than this
+ ------------------
  Inital source: https://github.com/dpocock/camt053-xsl
  Framework 4.0 was used on purpose, you may change it at will...
